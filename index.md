@@ -1,4 +1,4 @@
-##Citi Bikes in Northern Manhattan
+## Citi Bikes in Northern Manhattan
 
 ### Team Members
 - Sam Prasad
