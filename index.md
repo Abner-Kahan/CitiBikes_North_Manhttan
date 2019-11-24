@@ -17,3 +17,5 @@
 
 <!-- add Virnoli map with all location
 Add summary of bike station reasoning for each neighborhood(HC10)-->
+
+<iframe src="https://github.com/Abner-Kahan/CitiBikes_North_Manhttan/blob/master/libVorBike.html"></iframe>
